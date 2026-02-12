@@ -168,7 +168,7 @@ This build supports:
 - GPU reseating resolves many “no display” issues
 
 <br />
-<h2>🎯 Outcome</h2>
+<h2>Outcome</h2>
 
 - Final system is stable, updated, optimized, and ready for:
 - Cybersecurity lab development
