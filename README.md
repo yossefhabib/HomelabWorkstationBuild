@@ -8,17 +8,9 @@ This project documents the design, assembly, configuration, and validation of a 
 <h2>Objective</h2>
 
 - Build a reliable bare-metal platform capable of running multiple virtual machines simultaneously
-- Enable SOC-relevant lab scenarios (Active Directory, SIEM, endpoint monitoring)
 - Validate hardware performance and thermal stability under load
 - Document configuration and deployment steps for reproducibility
 
-<h2>Capabilities Enabled</h2>
-
-- Multi-VM virtualization (Windows, Linux)
-- Active Directory lab simulation
-- Log forwarding and SIEM ingestion
-- Network traffic capture (Wireshark, Zeek)
- -Vulnerability scanning (OpenVAS, Nmap)
   
 <h2>System Architecture</h2>
 
