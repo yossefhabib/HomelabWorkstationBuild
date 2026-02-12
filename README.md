@@ -1,16 +1,37 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Homelab-Infrastructure</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
+<h2>Overview</h2> 
+This project documents the design, assembly, configuration, and validation of a high-performance workstation built to support Security Operations Center (SOC)–focused lab activities. The system is intended to serve as a stable, multi-VM environment for defensive security testing, log analysis, threat simulation, and detection engineering practice, with room for more advanced labs as my skills develop.
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Objective</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- Build a reliable bare-metal platform capable of running multiple virtual machines simultaneously
+- Enable SOC-relevant lab scenarios (Active Directory, SIEM, endpoint monitoring)
+- Validate hardware performance and thermal stability under load
+- Document configuration and deployment steps for reproducibility
+
+<h2>Capabilities Enabled</h2>
+
+- Multi-VM virtualization (Windows, Linux)
+- Active Directory lab simulation
+- Log forwarding and SIEM ingestion
+- Network traffic capture (Wireshark, Zeek)
+ -Vulnerability scanning (OpenVAS, Nmap)
+  
+<h2>Hardware and Tools</h2>
+
+- CPU: Ryzen 7 7800X3D
+- Motherboard ASUS B650E-E TUF Gaming WiFi
+- GPU: RTX 5070 Shadow 2X
+- Storage: Samsung 990 Pro NVMe 1TB
+- Memory: 32GB DDR5-6000
+- Power Supply: RM850e PSU
+- CPU Cooler: Phantom Spirit 120 SE
+- Case: Meshify 2 case
+
 
 <h2>Environments Used </h2>
 
