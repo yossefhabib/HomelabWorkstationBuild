@@ -137,7 +137,7 @@ Device Manager → No unknown devices
 <br />
 <br />
 
-<h2> 🔐 Security Relevance </h2>
+<h2> Security Relevance </h2>
 
 This build supports:
 
