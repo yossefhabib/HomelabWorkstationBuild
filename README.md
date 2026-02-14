@@ -151,7 +151,7 @@ This build supports:
 <br />
 
 
-<h2>🛠 Lessons Learned</h2>
+<h2>Lessons Learned</h2>
 
 - Memory training on DDR5 can delay the initial POST
 - USB 3.0 interference can impact wireless peripherals (while setting up mouse and keyboard) 
