@@ -73,7 +73,7 @@ Root Cause:
 Improper GPU seating + initial memory training delay
 
 
-Issue Encountered: Yellow motherboard diagnostic LED, fixed then followed by a white motherboard diagnostic LED
+Issue Encountered: Yellow motherboard diagnostic LED, fixed, then followed by a white motherboard diagnostic LED
 
 ![image7](https://github.com/user-attachments/assets/2cf1bdeb-92c1-446a-80ed-5f379220f929)
 ![image8](https://github.com/user-attachments/assets/98086fcc-4c36-4fea-a5a6-9e76fe2b1cd7)
@@ -87,7 +87,7 @@ According to the motherboard manual, a yellow light indicates a DRAM error, so I
 <br />
 <br />
 
-Successful! I installed the motherboard, PSU, and fans appropriately into the case, then cleaned up the cables with proper cabling and ziptines:
+Successful! I installed the motherboard, PSU, and fans appropriately into the case, then cleaned up the cables with proper cabling and zip ties:
 
 ![image13](https://github.com/user-attachments/assets/6bab119b-4d75-4bc4-ad0e-6c1e3b055478)
 ![image15](https://github.com/user-attachments/assets/ac8d0153-6e7f-4568-82bd-361d09842b2d)
